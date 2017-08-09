@@ -1,31 +1,37 @@
 ## Welcome to My Profile
 
+```
+ **Phone: +(233) 554-253285
+ Phone: +(233)501-541449
+ Email:  esarpong51@gmail.com**
+```
+
 ### SKILLS
 
-#### Computer Programming Languages
- * Assembly
- * C 
- * C++
- * HTML 
- * CSS 
- * Javascript
- * PHP 
- * SQL
- * Java
- * Python
- * Android
- * Microcontroller / Arduino
- * Matlab
- * Lua
- * Batch / Shell
+ #### Computer Programming Languages
+  * Assembly
+  * C 
+  * C++
+  * HTML 
+  * CSS 
+  * Javascript
+  * PHP 
+  * SQL
+  * Java
+  * Python
+  * Android
+  * Microcontroller / Arduino
+  * Matlab
+  * Lua
+  * Batch / Shell
 
-#### Computer Software
- * MS Word / Excel / Powerpoint
- * Autodesk Autocad
- * SolidEdge
- * Multisim Electronics
- * Unity 3D
- * Blender
+ #### Computer Software
+  * MS Word / Excel / Powerpoint
+  * Autodesk Autocad
+  * SolidEdge
+  * Multisim Electronics
+  * Unity 3D
+  * Blender
 
 #### LANGUAGES
  * ENGLISH
