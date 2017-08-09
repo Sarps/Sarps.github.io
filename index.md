@@ -1,10 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile
 
 You can use the [editor on GitHub](https://github.com/Sarps/Sarps.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### SKILLS
+
+####Computer Programming Languages
+Assembly
+C 
+ C++
+HTML 
+ CSS 
+ Javascript
+PHP 
+ SQL
+Java
+Python
+Android
+Microcontroller / Arduino
+Matlab
+
+####Computer Software
+MS Word / Excel / Powerpoint
+Autodesk Autocad
+SolidEdge
+Multisim Electronics
+Unity
+LANGUAGES
+ENGLISH
+FRENCH
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
