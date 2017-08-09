@@ -6,6 +6,17 @@
  Email:  esarpong51@gmail.com**
 ```
 
+ 1. Participated twice in Google's HashCode competition
+  * 2016, 2017
+  
+ 1. Participated twice in Hacklab hackathon competition
+  * 2016, 2017
+  
+ 1. Won the best pitch award for the Hacklab hackathon competition
+  * 2017
+  
+ 1. Co-founder of X-HUB KNUST
+
 ### SKILLS
 
  #### Computer Programming Languages
